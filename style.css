@@ -1,0 +1,13 @@
+                                    body {
+                                        background-image: url(img/eft.gif);
+                                    }
+                                    
+                                    div {
+                                        display: flex;
+                                        flex-wrap: wrap;
+                                        justify-content: space-between;
+                                    }
+                                    
+                                    h1 {
+                                        color: rgb(155, 11, 35);
+                                    }
